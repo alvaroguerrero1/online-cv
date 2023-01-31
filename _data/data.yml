@@ -17,51 +17,57 @@ sidebar:
     #timezone: America/Cancun Timezone
     citizenship: Colombian
     #website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: Alvaro Guerrero
+    #xing: alandoe
+    github: alvaroguerrero1
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
+        #- idiom: French
+         # level: Professional
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Science
           link:
 
-        - item: Snowboarding
+        - item: Universe
           link:
 
-        - item: Cooking
+        - item: Soccer
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    I got a bachelor’s degree in physics at the University of Nariño, 
+    Colombia. I got a master’s degree in physics sciences at the University of
+    Puerto Rico Mayaguez campus. My highlights are focused on researching, data
+    analysis and working group. I have earned knowledge about particle physics and 
+    the interaction with silicon sensors where I spent time almost 2 years working
+    with the USCMS group at Test-beam facility on Fermilab, US. I have taken material
+    science courses at the university of PR Mayaguez campus. I have earned a good handling 
+    of English language and I have given some talks on international conferences. I have 
+    reached experience in the teaching and educational field giving physics and lab classes 
+    to high school and undergraduate students. Currently I am pursuing a doctoral degree in
+    chemical-physics at the University of Puerto Rico Rio Piedras Campus where I am focused on 
+    photocatalytic thin films for the creation of green hydrogen.
 education:
     title: Education
     info:
